@@ -1,6 +1,8 @@
 <!----------------------------------- Banner - GeekyShows ------------------------------------>
 [![MasterHead](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](#)
 
+[![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/linkedin%20photo.jpg)](#)
+
 <!----------------------------------- About Section ------------------------------------>
 <div>
 <h1 align="center">Hi 👋, I'm Rajat Kapoor</h1>
