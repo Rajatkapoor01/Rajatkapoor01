@@ -1,5 +1,4 @@
-<!----------------------------------- Banner - GeekyShows ------------------------------------>
-[![MasterHead](https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/gbann.png)](#)
+<!----------------------------------- Banner ------------------------------------->
 
 [![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/linkedin%20photo.jpg)](#)
 
