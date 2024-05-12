@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Machine Learning](https://github.com/Rajatkapoor01/Machine_Learning_Projects.git)
 
-- 🔭 I’m currently working on [AAP Development](https://github.com/Rajatkapoor01/APPLICATION_DEVELOPMENT.git)
+- 🔭 I’m currently working on [App Development](https://github.com/Rajatkapoor01/APPLICATION_DEVELOPMENT.git)
 
 - 💬 Ask me about **Python, Machine Learning, AAP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
 
