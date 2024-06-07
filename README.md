@@ -78,10 +78,10 @@
   ------- | :---------: | :--------: 
 Cognifyz| HTML, CSS, JS | [Repo]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS)
 
-OCTANET| PYTHON DEVELOPER| [Repo]( https://github.com/Rajatkapoor01/OCTANET) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/OCTANET)
+OCTANET| PYTHON DEVELOPER | [Repo]( https://github.com/Rajatkapoor01/OCTANET) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/OCTANET)
 
-CODSOFT| ANDROID| [Repo](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
-CODSOFT| ANDROID| [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
+CODSOFT| ANDROID | [Repo](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
+CODSOFT| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 
 
 
