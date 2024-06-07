@@ -50,7 +50,8 @@
 
 
 <h3>CONNECTIONS : </h3>
-<h3 align="left">Connect with me:</h3>
+<h3> Connect with me<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajatkapoor01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajatkapoor01" height="30" width="40" /></a>
