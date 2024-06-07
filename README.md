@@ -36,9 +36,7 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
   Project Name | Tech Stack | Source Code | Dataset
   ------- | :---------: | :--------: | :--------:
   Student Grade Prediction | Python | [Repo](https://github.com/Rajatkapoor01/Student-Grade-Prediction) | [Kaggle](https://www.kaggle.com/code/mohaiminul101/student-grade-prediction-and-eda)
-  
-  IPL SCORE PREDICTION | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/Regression-problem-IPL-Score-Prediction-) | [Kaggle](https://www.kaggle.com/datasets/laxmena/ipl-dataset-2020-season-included)
-
+   IPL SCORE PREDICTION | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/Regression-problem-IPL-Score-Prediction-) | [Kaggle](https://www.kaggle.com/datasets/laxmena/ipl-dataset-2020-season-)
 
   </details>
  <!--------------------------------------------------------------------------------------------->
