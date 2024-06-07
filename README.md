@@ -12,11 +12,8 @@
 - 🔭 I’m currently working on
 <!-----------------------------------  TASK Section ------------------------------------>
 <!-----------------------------------  TASK Section ------------------------------------>
-<!--------------------------------------------------------------------------------------->
 
-
-
-
+ <!--------------------------------------------------------------------------------------------->
   <!--------  INTERNSHIP ------------>
   <details>
   <summary><b>INTERNSHIP</b></summary>
@@ -30,7 +27,7 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) |
 Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 
   </details>
-
+ <!--------------------------------------------------------------------------------------------->
 <!--------  DATA SCIENCE ------------>
 <details>
   <summary><b>Data Science</b></summary>
@@ -40,10 +37,11 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
   ------- | :---------: | :--------: | :--------:
   Student Grade Prediction | Python | [Repo](https://github.com/Rajatkapoor01/Student-Grade-Prediction) | [Kaggle](https://www.kaggle.com/code/mohaiminul101/student-grade-prediction-and-eda)
   
-  IPL SCORE PREDICTION | Python, ML, DL | [Repo]https://github.com/Rajatkapoor01/Regression-problem-in-ML) | [Kaggle](https://www.kaggle.com/datasets/laxmena/ipl-dataset-2020-season-included)
+  IPL SCORE PREDICTION | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/Regression-problem-IPL-Score-Prediction-) | [Kaggle](https://www.kaggle.com/datasets/laxmena/ipl-dataset-2020-season-included)
+
 
   </details>
-  
+ <!--------------------------------------------------------------------------------------------->
   <!--------  ANDROID DEVELOPMENT ------------>
   <details>
   <summary><b> ANDROID Development</b></summary>
@@ -51,14 +49,15 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
   
   Project Name | Tech Stack | Source Code 
   ------- | :---------: | :--------: |
-  BMI Calculator | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/BMI_Calculator) |
+  BMI Calculator   | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/BMI_Calculator) |
+  TODO APP         | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) |
+  Quote Of the DAY | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) |
 
-  TODO APP | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) |
-
-   Quote Of The Day | Kotlin, Android development | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) |
  
-  
   </details>
+ <!--------------------------------------------------------------------------------------------->
+
+  
    </details>
 
 <!--------  WEB DEVELOPMENT ------------>
