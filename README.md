@@ -62,6 +62,33 @@
 
 
 <!-----------------------------------  TASK Section ------------------------------------>
+<!-----------------------------------  TASK Section ------------------------------------>
+<!-----------------------------------  TASK Section ------------------------------------>
+<!--------------------------------------------------------------------------------------->
+
+
+
+
+  <!--------  INTERNSHIP ------------>
+  <details>
+  <summary><b>INTERNSHIP</b></summary>
+  <br/>
+  
+  Project Name | Tech Stack | Source Code
+  ------- | :---------: | :--------: 
+Cognifyz| HTML, CSS, JS | [Repo]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS)
+
+OCTANET| PYTHON DEVELOPER| [Repo]( https://github.com/Rajatkapoor01/OCTANET) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/OCTANET)
+
+CODSOFT| ANDROID| [Repo](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
+CODSOFT| ANDROID| [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
+
+
+
+  
+  </details>
+
+   
 
 <!--------  DATA SCIENCE ------------>
 <details>
@@ -76,6 +103,23 @@
 
   </details>
 
+    <!--------  ANDROID DEVELOPMENT ------------>
+  <details>
+  <summary><b>ANDROID Development</b></summary>
+  <br/>
+  
+  Project Name | Tech Stack | Source Code
+  ------- | :---------: | :--------: 
+  BMI Calculator | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/BMI_Calculator) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/BMI_Calculator)
+
+  TODO APP | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
+
+   Quote Of The Day | Kotlin, Android development | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
+ 
+  
+  </details>
+   </details>
+
 <!--------  WEB DEVELOPMENT ------------>
   <details>
   <summary><b>Web Development</b></summary>
@@ -84,21 +128,13 @@
   Project Name | Tech Stack | Source Code
   ------- | :---------: | :--------: 
   Glowy Pricing | HTML, CSS, JS | [Repo](https://github.com/Rajatkapoor01/Glowy_Pricing) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/Glowy_Pricing)
-  
   </details>
    </details>
 
-   <!--------  ANDROID DEVELOPMENT ------------>
-  <details>
-  <summary><b>ANDROID Development</b></summary>
-  <br/>
-  
-  Project Name | Tech Stack | Source Code
-  ------- | :---------: | :--------: 
-  BMI Calculator | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/BMI_Calculator) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/BMI_Calculator)
-  
-  </details>
-   </details>
+<!------------------------------------------------------------------------------------->
+<!------------------------------------------------------------------------------------->
+ <!------------------------------------------------------------------------------------>
+
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
 <details>
   <summary><b> CERTIFICATES </b></summary>
