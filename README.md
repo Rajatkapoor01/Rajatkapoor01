@@ -100,39 +100,10 @@
   </details>
    </details>
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
-
-
-Here's the corrected markdown format suitable for a GitHub README file:
-
-```markdown
 <details>
-<summary><b>## General CERTIFICATES</b></summary>
-<br/>
+  <summary><b> CERTIFICATES </b></summary>
+  <br/>
 
-| Technology                    | Provider                | Description                                                                 | Link                                                                                                       |
-|-------------------------------|-------------------------|-----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Machine Learning with Python  | freeCodeCamp            | Free lesson and certification                                               | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/)                                    |
-| Data Visualization            | freeCodeCamp            | Free lesson and certification                                               | [Link](https://www.freecodecamp.org/learn/data-visualization/)                                              |
-| AI Fundamentals               | Databricks              | Generative AI Fundamentals                                                  | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals)                      |
-| OCI                           | Oracle                  | Oracle Cloud Infrastructure 2023 Foundations Associate                      | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23)|
-| Azure                         | Pluralsight             | Free subscription at Pluralsight for Microsoft Azure courses                | [Link](https://www.pluralsight.com/partners/microsoft/azure)                                                |
-| Cloud Networking              | Aviatrix                | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate    | [Link](https://aviatrix.teachable.com)                                                                      |
-| Security                      | Juniper Networks        | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478)                        |
-| Google Cloud                  | Qwiklabs                | Claim 30 days of free Qwiklabs and access to the featured labs.              | [Link](https://go.qwiklabs.com/googlecloudsolutions)                                                        |
-| Huawei Networking             | Huawei Academy          | Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications | [Link](https://ilearningx.huawei.com/portal/courses)                                                     |
-| Network                       | Cisco Networking Academy| Networking Essentials                                                       | [Link](https://www.netacad.com/courses/networking/networking-essentials)                                    |
-| Game Development              | Unity                   | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/)                                                               |
-| Internet of Things            | Cisco Networking Academy| Introduction to IoT                                                         | [Link](https://www.netacad.com/courses/iot/introduction-iot)                                                |
-| DevOps                        | Google Cloud Skills Boost| DevOps Essentials                                                           | [Link](https://www.cloudskillsboost.google/course_templates/717)                                            |
-| AI Fundamentals               | Google Cloud Skills Boost| Introduction to Generative AI                                               | [Link](https://www.cloudskillsboost.google/journeys/118/course_templates/536)                               |
-| Machine Learning              | Google Cloud Skills Boost| Intro to ML: Language Processing                                            | [Link](https://www.cloudskillsboost.google/course_templates/740)                                            |
-| Machine Learning              | Google Cloud Skills Boost| Integrate with Machine Learning APIs                                        | [Link](https://www.cloudskillsboost.google/course_templates/630)                                            |
-| Cloud                         | Google Cloud Skills Boost| Cloud Engineering                                                           | [Link](https://www.cloudskillsboost.google/course_templates/695)                                            |
-| AI                            | Elements of AI          | Free online courses about the basics of AI                                  | [Link](https://www.elementsofai.com/)                                                                       |
-| AI                            | LinkedIn                | Career Essentials in Generative AI by Microsoft and LinkedIn                | [Link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) |
-
-<p align="center"><a href="#table-of-contents">(back to top)</a></p>
-</details>
 <!-----------------Security----------->
  <details>
   <summary><b> ## SECURITY CERTIFICATES</b></summary>
