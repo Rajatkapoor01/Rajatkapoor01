@@ -107,59 +107,140 @@
 
 
 
-  <!-- Certificate -->
-  <details>
-  <summary><b> ## General CERTIFICATES</b></summary>
-  <br/>
-| Technology | Provider | Description | Link | Expiration |
-| --- | --- | --- | --- | --- |
-| Gitlab Certification | Gitlab | Free Certifications paths and badges | [Link](https://about.gitlab.com/learn/) | Unknown |
+Here's the corrected HTML:
 
-| Machine Learning with Python | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/machine-learning-with-python/) | Unlimited |
-
-| Data Visualization | freeCodeCamp | Free lesson and certification | [Link](https://www.freecodecamp.org/learn/data-visualization/) | Unlimited |
-
-| AI Fundamentals | Databricks  | Generative AI Fundamentals | [Link](https://www.databricks.com/resources/learn/training/generative-ai-fundamentals) | Unlimited |
-
-| OCI | Oracle | Oracle Cloud Infrastructure 2023 Foundations Associate | [Link](https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23) |Unlimited |
-
-
-| Azure | Pluralsight | Free subscription at Pluralsight for Microsoft Azure courses | [Link](https://www.pluralsight.com/partners/microsoft/azure) | 01-Jan-2025 |
-
-| Cloud Networking | Aviatrix  | Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD | [Link](https://aviatrix.teachable.com) | Limited Time |
-
-
-
-| Security | Juniper Networks | Courses and certifications for free by Juniper Networks (instead of 150 euros). | [Link](https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478) | Unknown |
-
-| Google Cloud | Qwiklabs | Claim 30 days of free Qwiklabs and access to the featured labs. | [Link](https://go.qwiklabs.com/googlecloudsolutions) | Unknown |
-
-| Huawei Networking | Huawei Academy | Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications. | [Link](https://ilearningx.huawei.com/portal/courses) | Unknown |
-
-| Network | Cisco Networking Academy | Networking Essentials | [Link](https://www.netacad.com/courses/networking/networking-essentials) | Unlimited |
-
-| Game Development | Unity | Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills. | [Link](https://learn.unity.com/) | Unlimited |
-
-| Internet of Things | Cisco Networking Academy | Introduction to IoT | [Link](https://www.netacad.com/courses/iot/introduction-iot) | Unlimited |
-
-| DevOps | Google Cloud Skills Boost | DevOps Essentials | [Link](https://www.cloudskillsboost.google/course_templates/717) | Unlimited |
-
-| AI Fundamentals | Google Cloud Skills Boost | Introduction to Generative AI | [Link](https://www.cloudskillsboost.google/journeys/118/course_templates/536) | Unlimited |
-
-| Machine Learning | Google Cloud Skills Boost | Intro to ML: Language Processing | [Link](https://www.cloudskillsboost.google/course_templates/740) | Unlimited |
-
-| Machine Learning | Google Cloud Skills Boost | Integrate with Machine Learning APIs | [Link](https://www.cloudskillsboost.google/course_templates/630) | Unlimited |
-
-| Cloud | Google Cloud Skills Boost | Cloud Engineering | [Link](https://www.cloudskillsboost.google/course_templates/695) | Unlimited |
-
-| AI | Elements of AI | Free online courses about the basics of AI | [Link](https://www.elementsofai.com/) | Unlimited |
-
-| AI | LinkedIn | Career Essentials in Generative AI by Microsoft and LinkedIn | [Link](https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin) | Unknown |
-
+```html
+<!-- Certificate -->
+<details>
+<summary><b>## General CERTIFICATES</b></summary>
+<br/>
+<table>
+  <tr>
+    <th>Technology</th>
+    <th>Provider</th>
+    <th>Description</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>Machine Learning with Python</td>
+    <td>freeCodeCamp</td>
+    <td>Free lesson and certification</td>
+    <td><a href="https://www.freecodecamp.org/learn/machine-learning-with-python/">Link</a></td>
+  </tr>
+  <tr>
+    <td>Data Visualization</td>
+    <td>freeCodeCamp</td>
+    <td>Free lesson and certification</td>
+    <td><a href="https://www.freecodecamp.org/learn/data-visualization/">Link</a></td>
+  </tr>
+  <tr>
+    <td>AI Fundamentals</td>
+    <td>Databricks</td>
+    <td>Generative AI Fundamentals</td>
+    <td><a href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals">Link</a></td>
+  </tr>
+  <tr>
+    <td>OCI</td>
+    <td>Oracle</td>
+    <td>Oracle Cloud Infrastructure 2023 Foundations Associate</td>
+    <td><a href="https://education.oracle.com/oracle-cloud-infrastructure-2023-foundations-associate/pexam_1Z0-1085-23">Link</a></td>
+  </tr>
+  <tr>
+    <td>Azure</td>
+    <td>Pluralsight</td>
+    <td>Free subscription at Pluralsight for Microsoft Azure courses</td>
+    <td><a href="https://www.pluralsight.com/partners/microsoft/azure">Link</a></td>
+  </tr>
+  <tr>
+    <td>Cloud Networking</td>
+    <td>Aviatrix</td>
+    <td>Aviatrix, Free ACE - Multicloud Networking associate Course & Certificate code ACEMULTICLOUD</td>
+    <td><a href="https://aviatrix.teachable.com">Link</a></td>
+  </tr>
+  <tr>
+    <td>Security</td>
+    <td>Juniper Networks</td>
+    <td>Courses and certifications for free by Juniper Networks (instead of 150 euros).</td>
+    <td><a href="https://learningportal.juniper.net/juniper/user_activity_info.aspx?id=11478">Link</a></td>
+  </tr>
+  <tr>
+    <td>Google Cloud</td>
+    <td>Qwiklabs</td>
+    <td>Claim 30 days of free Qwiklabs and access to the featured labs.</td>
+    <td><a href="https://go.qwiklabs.com/googlecloudsolutions">Link</a></td>
+  </tr>
+  <tr>
+    <td>Huawei Networking</td>
+    <td>Huawei Academy</td>
+    <td>Free courses & exams from Huawei Academy for the HCIA, HCIP, and HCIE certifications</td>
+    <td><a href="https://ilearningx.huawei.com/portal/courses">Link</a></td>
+  </tr>
+  <tr>
+    <td>Network</td>
+    <td>Cisco Networking Academy</td>
+    <td>Networking Essentials</td>
+    <td><a href="https://www.netacad.com/courses/networking/networking-essentials">Link</a></td>
+  </tr>
+  <tr>
+    <td>Game Development</td>
+    <td>Unity</td>
+    <td>Official tutorials provided by Unity, for all skill levels, covering a wide range of features and skills.</td>
+    <td><a href="https://learn.unity.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td>Internet of Things</td>
+    <td>Cisco Networking Academy</td>
+    <td>Introduction to IoT</td>
+    <td><a href="https://www.netacad.com/courses/iot/introduction-iot">Link</a></td>
+  </tr>
+  <tr>
+    <td>DevOps</td>
+    <td>Google Cloud Skills Boost</td>
+    <td>DevOps Essentials</td>
+    <td><a href="https://www.cloudskillsboost.google/course_templates/717">Link</a></td>
+  </tr>
+  <tr>
+    <td>AI Fundamentals</td>
+    <td>Google Cloud Skills Boost</td>
+    <td>Introduction to Generative AI</td>
+    <td><a href="https://www.cloudskillsboost.google/journeys/118/course_templates/536">Link</a></td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Google Cloud Skills Boost</td>
+    <td>Intro to ML: Language Processing</td>
+    <td><a href="https://www.cloudskillsboost.google/course_templates/740">Link</a></td>
+  </tr>
+  <tr>
+    <td>Machine Learning</td>
+    <td>Google Cloud Skills Boost</td>
+    <td>Integrate with Machine Learning APIs</td>
+    <td><a href="https://www.cloudskillsboost.google/course_templates/630">Link</a></td>
+  </tr>
+  <tr>
+    <td>Cloud</td>
+    <td>Google Cloud Skills Boost</td>
+    <td>Cloud Engineering</td>
+    <td><a href="https://www.cloudskillsboost.google/course_templates/695">Link</a></td>
+  </tr>
+  <tr>
+    <td>AI</td>
+    <td>Elements of AI</td>
+    <td>Free online courses about the basics of AI</td>
+    <td><a href="https://www.elementsofai.com/">Link</a></td>
+  </tr>
+  <tr>
+    <td>AI</td>
+    <td>LinkedIn</td>
+    <td>Career Essentials in Generative AI by Microsoft and LinkedIn</td>
+    <td><a href="https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin">Link</a></td>
+  </tr>
+</table>
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 </details>
+```
 
-
+<!-----------------Security----------->
  <details>
   <summary><b> ## SECURITY CERTIFICATES</b></summary>
   <br/>
