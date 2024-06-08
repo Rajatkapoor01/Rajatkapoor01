@@ -1,6 +1,6 @@
 <!----------------------------------- Banner ------------------------------------->
 
-[![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/linkedin%20photo.jpg)](#)
+[![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/github%20Photo.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
@@ -8,6 +8,9 @@
 <h3 align="center">Embarking on the Journey of AIML and APP Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkapoor01&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkapoor01" /> </p>
+<!-----------------------------------  linked section ------------------------------------>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rajat-kapoor-732042289" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-kapoor-732042289?trk=profile-badge">Rajat Kapoor</a></div>
+
 
 - 🔭 I’m currently working on
 <!-----------------------------------  TASK Section ------------------------------------>
@@ -111,7 +114,8 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 <h3> Connect with me<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
 <p align="left">
-<a href="https://linkedin.com/in/rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="30" width="40" /></a>
+ 
 <a href="https://kaggle.com/rajatkapoor01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajatkapoor01" height="30" width="40" /></a>
 <a href="https://fb.com/rajat kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajat kapoor" height="30" width="40" /></a>
 <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="30" width="40" /></a>
@@ -246,8 +250,6 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 
 </details>
 
-<!-----------------------------------  linked section ------------------------------------>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rajat-kapoor-732042289" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-kapoor-732042289?trk=profile-badge">Rajat Kapoor</a></div>
               
 
 <!-----------------------------------  FINAL Section ------------------------------------>
