@@ -159,8 +159,9 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
  <details>
   <summary><b> ## SECURITY CERTIFICATES</b></summary>
   <br/>
-| Provider | Description | Link | Expiration |
-| --- | --- | --- | --- |
+  
+  | Provider | Description | Link | Expiration |
+  | --- | --- | --- | --- |
   | Cisco U | Understanding Cisco Cybersecurity Operations Fundamentals - CBROPS - 30 continuing education credits free | [Link](https://u.cisco.com/path/32) | 16-Nov-2023 |
   | ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2023 |
   | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
