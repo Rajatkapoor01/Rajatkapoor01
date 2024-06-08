@@ -76,7 +76,6 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 - 📫 How to reach me
 - **Gmail**
 - **Rajat01kapoor@gmail.com**
-- 
 - **Instagram**
 - <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="30" width="40" /></a>
 - **Linkedin**
