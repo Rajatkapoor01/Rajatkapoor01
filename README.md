@@ -129,7 +129,7 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
 <details>
-  <summary><b> CERTIFICATES </b></summary>
+  <summary><b> FREE CERTIFICATES FOR ENHANCING CAREER </b></summary>
   <br/>
 
 <!-----------------Security----------->
@@ -252,8 +252,21 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
   </details>
 
 </details>
-
-              
+<!------------------------------------SNAKE GAME----------------------->
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>             
 
 <!-----------------------------------  FINAL Section ------------------------------------>
 
