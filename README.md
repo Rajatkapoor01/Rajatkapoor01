@@ -125,19 +125,40 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 <a href="https://www.youtube.com/c/https://www.youtube.com/@mr.r00t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr.r00t" height="30" width="40" /></a>
 </p>
  <!------------------------------------------------------------------------------------>
+<!------------------------------------SNAKE GAME----------------------->
+ <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>             
+
+<!-----------------------------------  FINAL Section ------------------------------------>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
 
 
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
+<!-----------------------------------  Free CERTIFICATES ------------------------------------>
+<!-----------------------------------  Free CERTIFICATES ------------------------------------>
+
 <details>
   <summary><b> FREE CERTIFICATES FOR ENHANCING CAREER </b></summary>
   <br/>
-
 <!-----------------Security----------->
  <details>
   <summary><b> ## SECURITY CERTIFICATES</b></summary>
   <br/>
-
-
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
 | Cisco U | Understanding Cisco Cybersecurity Operations Fundamentals - CBROPS - 30 continuing education credits free | [Link](https://u.cisco.com/path/32) | 16-Nov-2023 |
@@ -158,12 +179,9 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 </details>
 
-
  <details>
   <summary><b> ## Databases CERTIFICATES</b></summary>
   <br/>
-
-
 
 | Provider | Description | Link | Expiration |
 | --- | --- | --- | --- |
@@ -252,24 +270,3 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
   </details>
 
 </details>
-<!------------------------------------SNAKE GAME----------------------->
- <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>             
-
-<!-----------------------------------  FINAL Section ------------------------------------>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
