@@ -8,9 +8,6 @@
 <h3 align="center">Embarking on the Journey of AIML and APP Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkapoor01&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkapoor01" /> </p>
-<!-----------------------------------  linked section ------------------------------------>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rajat-kapoor-732042289" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-kapoor-732042289?trk=profile-badge">Rajat Kapoor</a></div>
-
 
 - 🔭 I’m currently working on
 <!-----------------------------------  TASK Section ------------------------------------>
@@ -74,7 +71,8 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 
 <!------------------------------------------------------------------------------------->
 
-  
+  <!-----------------------------------  linked section ------------------------------------>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rajat-kapoor-732042289" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-kapoor-732042289?trk=profile-badge">Rajat Kapoor</a></div>
 
 - 💬 Ask me about **Python, Machine Learning, AAP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
 
