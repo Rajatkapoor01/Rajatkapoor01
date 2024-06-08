@@ -4,8 +4,8 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-<h1 align="center">Hi<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-, *I'm Rajat Kapoor*</h1>
+<h1 align="center"><a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+Hi, I'm Rajat Kapoor</h1>
  
 <h3 align="center">Embarking on the Journey of AIML and APP Development</h3>
 
