@@ -73,7 +73,7 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 
 - 💬 Ask me about **Python, Machine Learning, AAP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
 
-- 📫 How to reach me
+- 📫 How to reach me (*eassiest way*)
 - **Gmail**
 - **Rajat01kapoor@gmail.com**
 - **Instagram**
