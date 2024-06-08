@@ -246,6 +246,10 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 
 </details>
 
+<!-----------------------------------  linked section ------------------------------------>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rajat-kapoor-732042289" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-kapoor-732042289?trk=profile-badge">Rajat Kapoor</a></div>
+              
+
 <!-----------------------------------  FINAL Section ------------------------------------>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
