@@ -4,7 +4,9 @@
 
 <!----------------------------------- About Section ------------------------------------>
 <div>
-<h1 align="center">Hi 👋, I'm Rajat Kapoor</h1>
+<h1 align="center">Hi<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+, *I'm Rajat Kapoor*</h1>
+ 
 <h3 align="center">Embarking on the Journey of AIML and APP Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkapoor01&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkapoor01" /> </p>
