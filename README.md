@@ -3,6 +3,11 @@
 [![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/github%20Photo.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
+<h4 align="center">Visitor's count :eyes:</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+
+
 <div>
 <h1 align="center"><a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 Hi, I'm Rajat Kapoor</h1>
@@ -86,7 +91,6 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 </div>
 
 
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 
 <!-----------------------------------  Tech Stack Section ------------------------------------>
@@ -274,3 +278,5 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
   </details>
 
 </details>
+
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
