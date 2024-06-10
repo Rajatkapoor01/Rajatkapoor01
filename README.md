@@ -86,6 +86,9 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 </div>
 
 
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
+
 <!-----------------------------------  Tech Stack Section ------------------------------------>
 <h2>Tech Stack</h2>
 <h3 align="left"> I am dedicated to mastering a specific set of tools or languages and actively applying them in my work.:</h3>
