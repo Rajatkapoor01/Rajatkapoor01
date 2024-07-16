@@ -33,6 +33,10 @@ Cognifyz| HTML, CSS, JS | [Repo]( https://github.com/Rajatkapoor01/cognifyz_inte
 OCTANET| PYTHON DEVELOPER | [Repo]( https://github.com/Rajatkapoor01/OCTANET) | GitHub | [NFT Forge](  https://github.com/Rajatkapoor01/OCTANET)
 Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
 Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection)
+
 
   </details>
  <!--------------------------------------------------------------------------------------------->
