@@ -17,75 +17,6 @@ Hi, I'm Rajat Kapoor</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkapoor01&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkapoor01" /> </p>
 
-- 🔭 I’m currently working on
-<!-----------------------------------  TASK Section ------------------------------------>
-<!-----------------------------------  TASK Section ------------------------------------>
-
- <!--------------------------------------------------------------------------------------------->
-  <!--------  INTERNSHIP ------------>
-  <details>
-  <summary><b> MY INTERNSHIPS</b></summary>
-  <br/>
-  
-  Project Name | Tech Stack | Source Code
-  ------- | :---------: | :--------: 
-Cognifyz| HTML, CSS, JS | [Repo]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS)
-OCTANET| PYTHON DEVELOPER | [Repo]( https://github.com/Rajatkapoor01/OCTANET) | GitHub | [NFT Forge](  https://github.com/Rajatkapoor01/OCTANET)
-Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
-Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
-CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction)
-CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection)
-CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection)
-
-
-  </details>
-  </details>
- <!--------------------------------------------------------------------------------------------->
-<details>
-  <summary><b>MY PROJECTS</b></summary>
-  <br/>
-<!--------  DATA SCIENCE ------------>
-<details>
-  <summary><b>Data Science</b></summary>
-  <br/>
-    
-  Project Name | Tech Stack | Source Code | Dataset
-  ------- | :---------: | :--------: | :--------:
-  Student Grade Prediction | Python | [Repo](https://github.com/Rajatkapoor01/Student-Grade-Prediction) | [Kaggle](https://www.kaggle.com/code/mohaiminul101/student-grade-prediction-and-eda)
-   IPL SCORE PREDICTION | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/Regression-problem-IPL-Score-Prediction-) | [Kaggle](https://www.kaggle.com/datasets/laxmena/ipl-dataset-2020-season-)
-
-  </details>
- <!--------------------------------------------------------------------------------------------->
-  <!--------  ANDROID DEVELOPMENT ------------>
-  <details>
-  <summary><b> ANDROID Development</b></summary>
-  <br/>
-  
-  Project Name | Tech Stack | Source Code 
-  ------- | :---------: | :--------: |
-  BMI Calculator   | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/BMI_Calculator) |
-  TODO APP         | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) |
-  Quote Of the DAY | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) |
-
- 
-  </details>
- <!--------------------------------------------------------------------------------------------->
-
-<!--------  WEB DEVELOPMENT ------------>
-  <details>
-  <summary><b>Web Development</b></summary>
-  <br/>
-  
-  Project Name | Tech Stack | Source Code
-  ------- | :---------: | :--------: 
-  Glowy Pricing | HTML, CSS, JS | [Repo](https://github.com/Rajatkapoor01/Glowy_Pricing) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/Glowy_Pricing)
-  </details>
-   </details>
-
-   </details>
-
-<!------------------------------------------------------------------------------------->
-
 - 💬 Ask me about **Python, Machine Learning, AAP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
 
 - 📫 How to reach me (*eassiest way*)
@@ -161,6 +92,78 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
+
+
+- 🔭 I’m currently working on
+<!-----------------------------------  TASK Section ------------------------------------>
+<!-----------------------------------  TASK Section ------------------------------------>
+
+ <!--------------------------------------------------------------------------------------------->
+  <!--------  INTERNSHIP ------------>
+  <details>
+  <summary><b> MY INTERNSHIPS</b></summary>
+  <br/>
+  
+  Project Name | Tech Stack | Source Code
+  ------- | :---------: | :--------: 
+Cognifyz| HTML, CSS, JS | [Repo]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS)
+OCTANET| PYTHON DEVELOPER | [Repo]( https://github.com/Rajatkapoor01/OCTANET) | GitHub | [NFT Forge](  https://github.com/Rajatkapoor01/OCTANET)
+Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
+Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection)
+
+
+  </details>
+  </details>
+ <!--------------------------------------------------------------------------------------------->
+<details>
+  <summary><b>MY PROJECTS</b></summary>
+  <br/>
+<!--------  DATA SCIENCE ------------>
+<details>
+  <summary><b>Data Science</b></summary>
+  <br/>
+    
+  Project Name | Tech Stack | Source Code | Dataset
+  ------- | :---------: | :--------: | :--------:
+  Student Grade Prediction | Python | [Repo](https://github.com/Rajatkapoor01/Student-Grade-Prediction) | [Kaggle](https://www.kaggle.com/code/mohaiminul101/student-grade-prediction-and-eda)
+   IPL SCORE PREDICTION | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/Regression-problem-IPL-Score-Prediction-) | [Kaggle](https://www.kaggle.com/datasets/laxmena/ipl-dataset-2020-season-)
+
+  </details>
+ <!--------------------------------------------------------------------------------------------->
+  <!--------  ANDROID DEVELOPMENT ------------>
+  <details>
+  <summary><b> ANDROID Development</b></summary>
+  <br/>
+  
+  Project Name | Tech Stack | Source Code 
+  ------- | :---------: | :--------: |
+  BMI Calculator   | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/BMI_Calculator) |
+  TODO APP         | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) |
+  Quote Of the DAY | Kotlin, Android development | [Repo](https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) |
+
+ 
+  </details>
+ <!--------------------------------------------------------------------------------------------->
+
+<!--------  WEB DEVELOPMENT ------------>
+  <details>
+  <summary><b>Web Development</b></summary>
+  <br/>
+  
+  Project Name | Tech Stack | Source Code
+  ------- | :---------: | :--------: 
+  Glowy Pricing | HTML, CSS, JS | [Repo](https://github.com/Rajatkapoor01/Glowy_Pricing) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/Glowy_Pricing)
+  </details>
+   </details>
+
+   </details>
+
+<!------------------------------------------------------------------------------------->
+
+
 
 
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
