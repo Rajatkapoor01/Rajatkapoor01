@@ -24,7 +24,7 @@ Hi, I'm Rajat Kapoor</h1>
  <!--------------------------------------------------------------------------------------------->
   <!--------  INTERNSHIP ------------>
   <details>
-  <summary><b>INTERNSHIP</b></summary>
+  <summary><b> MY INTERNSHIPS</b></summary>
   <br/>
   
   Project Name | Tech Stack | Source Code
@@ -39,7 +39,11 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 
 
   </details>
+  </details>
  <!--------------------------------------------------------------------------------------------->
+<details>
+  <summary><b>MY PROJECTS</b></summary>
+  <br/>
 <!--------  DATA SCIENCE ------------>
 <details>
   <summary><b>Data Science</b></summary>
