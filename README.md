@@ -71,9 +71,6 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   </details>
  <!--------------------------------------------------------------------------------------------->
 
-  
-   </details>
-
 <!--------  WEB DEVELOPMENT ------------>
   <details>
   <summary><b>Web Development</b></summary>
@@ -83,6 +80,8 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   ------- | :---------: | :--------: 
   Glowy Pricing | HTML, CSS, JS | [Repo](https://github.com/Rajatkapoor01/Glowy_Pricing) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/Glowy_Pricing)
   </details>
+   </details>
+
    </details>
 
 <!------------------------------------------------------------------------------------->
