@@ -22,7 +22,8 @@ Hi, I'm Rajat Kapoor</h1>
 - 📫 How to reach me (*eassiest way*)
 - **Gmail** **Rajat01kapoor@gmail.com**
 - **Instagram** <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="30" width="40" /></a>
-- **Linkedin**<!-----------------------------------  linked section ------------------------------------>
+- **Linkedin**
+  <!-----------------------------------  linked section ------------------------------------>
  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="rajat-kapoor-732042289" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rajat-kapoor-732042289?trk=profile-badge">Rajat Kapoor</a></div>
 </div>
 
