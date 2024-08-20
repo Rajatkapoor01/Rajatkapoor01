@@ -157,132 +157,20 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 
    </details>
 
-<!------------------------------------------------------------------------------------->
-
-
-
 
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
-<!-----------------------------------  Free CERTIFICATES ------------------------------------>
-<!-----------------------------------  Free CERTIFICATES ------------------------------------>
 
-<details>
-  <summary><b> FREE CERTIFICATES FOR ENHANCING CAREER </b></summary>
-  <br/>
-<!-----------------Security----------->
+<!-----------------REFFER----------->
  <details>
-  <summary><b> ## SECURITY CERTIFICATES</b></summary>
+  <summary><b> --CERTIFICATES--</b></summary>
   <br/>
   
   | Provider | Description | Link | Expiration |
   | --- | --- | --- | --- |
-  | Cisco U | Understanding Cisco Cybersecurity Operations Fundamentals - CBROPS - 30 continuing education credits free | [Link](https://u.cisco.com/path/32) | 16-Nov-2023 |
-  | ISC² | Voucher 100%, Certified in Cybersecurity℠(CC) Exam Voucher: CC1M12312023 | [Link](https://www.isc2.org/landing/1mcc) | 31-Dec-2023 |
-  | Palo Alto Networks | Free certification exam coupon code upon completion of certification prep training during the event. | [Link](https://ignite.paloaltonetworks.com/) | 18-Nov-2020 |
-  | Fortinet | Free Network Security training courses & certifications by Fortinet / NSE Institute. | [Link](https://www.fortinet.com/corporate/about-us/newsroom/press-releases/2020/fortinet-makes-all-online-cybersecurity-training-courses-available-for-free.html) | Unlimited |
-  | The Academic Council Of uLektz | Free Cyber Security training and certification. | [Link](https://www.ulektzskills.com/skills/The-Academic-Council-Of-uLektz/Cyber-Security-NTA4Mg==) | Unknown |
-  | APMG International | Free Certified Cyber Professional (CCP) Specialism Pilot certification for **eligible individuals** (see link for info). | [Link](https://apmg-international.com/article/certified-cyber-professional-ccp-specialism-pilot) | Unknown |
-  | Cisco Networking Academy | Free Introduction to Cybersecurity course with Networking Academy badge for completing this course. | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
-  | SkillFront | Free ISO/IEC 27001 Information Security Associate™ | [Link](https://www.skillfront.com/ISO-IEC-27001-Information-Security-Associate) | Unlimited |
-  | AttackIQ | Foundations of Purple Teaming | [Link](https://www.academy.attackiq.com/courses/foundations-of-purple-teaming) | Unlimited |
-  | AttackIQ | Foundations of Breach & Attack Simulation | [Link](https://www.academy.attackiq.com/courses/foundations-of-breach-attack-simulation) | Unlimited |
-  | AttackIQ | Foundations of Operationalizing MITRE ATT&CK v13 | [Link](https://www.academy.attackiq.com/courses/foundations-of-operationalizing-mitre-attck-v13) | Unlimited |
-  | Cisco Networking Academy | Introduction to Cybersecurity | [Link](https://www.netacad.com/courses/cybersecurity/introduction-cybersecurity) | Unlimited |
-  | Cisco Networking Academy | Cybersecurity Essentials | [Link](https://www.netacad.com/courses/cybersecurity/cybersecurity-essentials) | Unlimited |
+  | Great Learning | Free Certificate | [Link](https://www.mygreatlearning.com/academy?referrer_code=GLUL97RUOMYX8) | Unlimited |
   | Google Cloud Skills Boost | Security & Identity Fundamentals | [Link](https://www.cloudskillsboost.google/course_templates/770) | Unlimited |
 
 <p align="center"><a href="#table-of-contents">(back to top)</a></p>
-</details>
-
- <details>
-  <summary><b> ## Databases CERTIFICATES</b></summary>
-  <br/>
-
-| Provider | Description | Link | Expiration |
-| --- | --- | --- | --- |
-| Exasol | Free Exasol training courses and certifications (€150 value each). | [Link](https://www.exasol.com/portal/display/TRAINING/Exasol+Training+and+Certification) | 30-Jun-2020 |
-| Mongodb | 12 free MongoDB courses with proof of completion. | [Link](https://university.mongodb.com/courses/catalog) | Unlimited |
-| CockcroachLab University | Free Cert - the core concepts behind distributed databases and give you all the tools you need to get started with CockroachDB | [Link](https://university.cockroachlabs.com/course/getting-started-with-cockroachdb) | Unknown |
-| CockcroachLab University | Free Cert - you will build a full-stack ride-sharing application in Python using the popular SQLAlchemy ORM and CockroachDB | [Link](https://university.cockroachlabs.com/course/cockroachdb-for-python-developers) | Unknown |
-| Liquibase |  Learn all about Liquibase fundamentals from free online courses by Liquibase experts and see how to apply them in the real world. | [Link](https://learn.liquibase.com/index) | Unknown |
-| Redis | Redis Certified Developer is our professional certification program for software developers who regularly work with Redis. | [Link](https://university.redis.com/certification/) | Unknown |
-| Databricks | Free Training: Databricks Lakehouse Fundamentals. | [Link](https://www.databricks.com/learn/training/lakehouse-fundamentals) | Unknown |
-| SQL | Free SQL Course with Certificate | [Link](https://www.simplilearn.com/free-online-course-to-learn-sql-basics-skillup) | 90 days of access |
-
-<p align="center"><a href="#table-of-contents">(back to top)</a></p>
-
-</details>
-
- <details>
-  <summary><b> ## Project Management CERTIFICATES</b></summary>
-  <br/>
-
-
-
-| Provider | Description | Link | Expiration |
-| --- | --- | --- | --- |
-| Certiprof | Free “Scrum Foundations Professional Certificate (SFPC)” certification. Available in en, pt-br & es. Use the code “COVID19Support” | [Link](https://certiprof.com/pages/scrum-foundations-professional-certificate-sfpc-english) | Unknown |
-| Six Sigma Online | Free Six Sigma White Belt Training & Certification. | [Link](https://www.sixsigmaonline.org/six-sigma-white-belt-certification/) | Unknown |
-| OHSC | Free Project Management course and certificate by Oxford Home Study Centre (OHSC). | [Link](https://www.oxfordhomestudy.com/courses/project-management-courses-online/free-online-courses-with-certificates-in-project-management) | Unlimited |
-| Msicertified | Free Project Management Essentials Certified (PMEC) training & certification.  | [Link](https://www.msicertified.com/free-project-management-certification.html) | Unlimited |
-| 6sigmastudy | Free Six Sigma Yellow Belt course & certification. | [Link](http://www.6sigmastudy.com/Six-Sigma-Yellow-Belt.asp) | Unlimited |
-| ScrumStudy | Free “Scrum Fundamentals Certified (SFC™)” training course & certification | [Link](https://www.scrumstudy.com/certification/scrum-fundamentals-certified) | Unlimited |
-| SkillFront | Free Certified Associate In Scrum Fundamentals™ (CASF™) | [Link](https://www.skillfront.com/CASF-Certified-Associate-In-Scrum-Fundamentals) | Unlimited |
-| Great Learning | Free Project Management course | [Link](https://www.mygreatlearning.com/academy/learn-for-free/courses/project-management) | Unlimited
-
-<p align="center"><a href="#table-of-contents">(back to top)</a></p>
-</details>
-
- <details>
-  <summary><b> ## Marketing CERTIFICATES</b></summary>
-  <br/>
-
-
-| Provider | Description | Link | Expiration |
-| --- | --- | --- | --- |
-| Google | Fundamentals of Digital Marketing free course & certificate by Google. | [Link](https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing) | Unlimited |
-| Microsoft | Microsoft Advertising certification and training. | [Link](https://about.ads.microsoft.com/en-us/resources/training/get-certified) | Unlimited |
-| SMstudy | 4 free marketing-related fundamental certifications by SMstudy. | [Link](https://www.smstudy.com/freeresources/earn-4-free-certifications) | Unlimited |
-| DMAC | Free Facebook & Instagram Marketing course and certification by DMAC (Digital Marketing Academy of Canada). | [Link](https://www.yourdmac.com/free-online-social-media-marketing-course) | Limited Time |
-| Hootsuite | **[Students only]** Free Hootsuite Platform Certification (worth $99) and Social Marketing Certification (worth $199) through Hootsuite's Student Program. | [Link](https://hootsuite.com/pages/landing/student-program) | Unlimited |
-| HubSpot Academy | Free marketing & sales courses with certification. | [Link](https://academy.hubspot.com/courses?page=1#certsOnly=true) | Unlimited |
-| SEMrush | Free Online Digital Marketing Courses and Exams. | [Link](https://www.semrush.com/academy/) | Unlimited |
-| Microsoft | Microsoft Advertising Certified Professional. | [Link](https://learninglab.about.ads.microsoft.com/training/training-certification/) | Unlimited |
-
-<p align="center"><a href="#table-of-contents">(back to top)</a></p>
-
-</details>
-
-
-<details>
-  <summary><b> ## MiscellaneousCERTIFICATES</b></summary>
-  <br/>
-
-
-| Provider | Description | Link | Expiration |
-| --- | --- | --- | --- |
-| Salesforce | Free Salesforce courses with career learning paths and _superbadges_. Also, free half-day [Salesforce Certification preparation webinar](https://trailhead.salesforce.com/credentials/cert-days), offering a $70 discount coupon for any $200 exam for all attendees. | [Link](https://trailhead.salesforce.com/en/home) | Unlimited |
-| Revenera | Revenera Certification, free of charge to approved members of the legal community. | [Link](https://info.revenera.com/SCA-Legal-Certification-Program-Request) | Unlimited |
-| Kahoot! | Kahoot! Certified for schools, this free program is designed to help teachers become the ultimate Kahoot! superheroes. | [Link](https://kahoot.com/blog/2020/09/18/kahoot-certified-for-schools-better-than-before/) | Unlimited |
-| Explain Everything | Free Explain Everything course and certification. | [Link](https://explaineverything.com/the-explain-everything-certification-course-is-here/) | Unlimited |
-| SkillFront | Free SkillFront Entrepreneur Program™: Foundations Of Business And Entrepreneurship™ | [Link](https://www.skillfront.com/Free-Business-Entrepreneurship-Program-Certification) | Unlimited |
-| CertiProf| Free Remote Work and Virtual Collaboration - RWVCPC | [Link](https://certiprof.com/pages/remote-work-and-virtual-collaboration-certificate-rwvcpc) | Unknown |
-| CertiProf| Business Model Canvas Essentials Professional Certification - BMCEPC | [Link](https://certiprof.com/pages/business-model-canvas-essentials-bmce) | Unknown |
-| CertiProf| Business Intelligence Foundation Professional Certification - BIFPC (Spanish Only) | [Link](https://certiprof.com/pages/business-intelligence-foundation-professional-certification-bifpc) | Unknown |
-| Slack | Free Slack Skill Learning Paths and Badges (issued by accredible.com - these are not certifications but badges for skill specialists) | [Link](https://www.slackcertified.com/page/slack-skills) | Unknown |
-| Reuters | Reuters Training Course: Introduction to Digital Journalism | [Link](https://reutersdigitaljournalism.com/) | Unknown
-| OpenSAP | openSAP is SAP's free learning platform for everyone interested in learning about SAP's latest innovations and how to survive in the digital economy. | [Link](https://open.sap.com/) | Unknown
-| Kami | Free online training courses to build your Kami skills and grow as a leader in your professional learning community | [Link](https://www.kamiapp.com/certified/) | 31-Oct-2021 |
-| Miro | Miro essentials | [Link](https://academy.miro.com/learning-paths/miro-essentials) | Unknown |
-| Miro | Collaborative meetings | [Link](https://academy.miro.com/learning-paths/collaborative-meetings-in-miro) | Unknown |
-| Miro | Mapping and diagramming | [Link](https://academy.miro.com/learning-paths/mapping-and-diagramming-in-miro) | Unknown |
-| Cloud App Maker, Microsoft | Microsoft low-code Cloud App Maker Certification: Register and complete the learning path within the start and end date to get a Free voucher to take the Microsoft Associate level certification | [Link](https://learn.microsoft.com/en-us/training/challenges?id=c20e4b59-b572-4f35-b00c-0316b71a0a5e&WT.mc_id=cloudskillschallenge_c20e4b59-b572-4f35-b00c-0316b71a0a5e&ocid=ignite22_CSCLinkedIn_organicsocial_wwl&s=09?wt.mc_id=studentamb_24964) |  2023 |
-| EF SET | 15-minute English quiz to validate reading skills (English grammar and vocabulary) and listening skills, aligned to CEFR levels. | [Link](https://www.efset.org/quick-check/) | Unlimited |
-| EF SET | 50-minute test to receive your personalized English certificate to add to your LinkedIn profile or CV, aligned to CEFR levels. | [Link](https://www.efset.org/ef-set-50/) | Unlimited |
-| Microsoft | The Microsoft Licensing Specialist certifications demonstrate competence in a particular area of Microsoft product licensing. You will require an intermediate level of knowledge to achieve these certifications. | [Link](https://getlicensingready.com/Main.aspx) | Unlimited |
-| ProKanban.org | Free Kanban Flow Metrics assessment | [Link](https://prokanban.org/small-batch-certifications/) | Unlimited |
-
-  </details>
 
 </details>
 
