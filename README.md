@@ -218,8 +218,47 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture> 
+<!--------------------------------ENDING HERE----------------------------------->
+
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guess the Number Game</title>
+    <script>
+        function checkGuess() {
+            const guess = document.getElementById('guess').value;
+            const result = document.getElementById('result');
+            const number = Math.floor(Math.random() * 10) + 1;
+            if (guess == number) {
+                result.textContent = 'Congratulations! You guessed correctly!';
+            } else {
+                result.textContent = `Sorry, the number was ${number}. Try again!`;
+            }
+        }
+    </script>
+</head>
+<body>
+    <h1>Guess the Number</h1>
+    <p>Guess a number between 1 and 10:</p>
+    <input type="number" id="guess" min="1" max="10">
+    <button onclick="checkGuess()">Submit</button>
+    <p id="result"></p>
+</body>
+</html>
+
+## Interactive Game
+
+I've built an interactive game you can play directly in your browser! Click the link below to play:
+
+[Play the Game](https://yourusername.github.io/your-repo)
 
 
- ![background](https://svgshare.com/i/5uA.svg)
-![Badge](https://img.shields.io/badge/Background-Blue-4A90E2?style=for-the-badge&logo=github)
+
+## Interactive Badge
+
+Check out the status of my latest build:
+![Build Status](https://img.shields.io/github/workflow/status/yourusername/your-repo/Build)
+
 
