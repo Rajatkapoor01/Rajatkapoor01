@@ -20,7 +20,7 @@ Hi, I'm Rajat Kapoor</h1>
 - 💬 Ask me about **Python, Machine Learning, AAP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
 
 - 📫 How to reach me (*eassiest way*)
-- **Gmail: Click On** **Rajat01kapoor@gmail.com**
+- **Gmail: Click On** [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:rajat01kapoor@gmail.com)
 - **Instagram: Click On**<a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="30" width="40" /></a>
 - **LinkedIn: Click On**<a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="30" width="40" /></a>
 </div>
