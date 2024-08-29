@@ -200,6 +200,9 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
 
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
+</details>
 <!------------------------------------SNAKE GAME----------------------->
  <picture>
   <source
@@ -215,6 +218,4 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture> 
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-</details>
  
