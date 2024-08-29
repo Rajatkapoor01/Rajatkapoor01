@@ -218,4 +218,8 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture> 
- 
+
+
+ ![background](https://svgshare.com/i/5uA.svg)
+![Badge](https://img.shields.io/badge/Background-Blue-4A90E2?style=for-the-badge&logo=github)
+
