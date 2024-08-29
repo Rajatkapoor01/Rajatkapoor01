@@ -7,15 +7,13 @@
 <!-- VISITOR COUNTER ON MY PROFILE-->
 <p align="center"><img src="https://profile-counter.glitch.me/{MyNewCounter}/count.svg" alt="MyNewCounter :: Visitor's Count" /></p>
 
-
-
 <div>
 <h1 align="center"><a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 Hi, I'm Rajat Kapoor</h1>
  
 <h3 align="center">Embarking on the Journey of AIML and WEB/APP Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkapoor01&label=Profile%20views&color=0e75b6&style=flat" alt="rajatkapoor01" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkapoor01&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22rajatkapoor01" /> </p>
 
 - 💬 Ask me about **Python, Machine Learning, AAP Development, AI, MySQL, DBMS, NLP, IOT, DSA, C,C++, KOTLIN,**
 
@@ -24,8 +22,18 @@ Hi, I'm Rajat Kapoor</h1>
 - **Instagram: Click On**<a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="30" width="40" /></a>
 - **LinkedIn: Click On**<a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="30" width="40" /></a>
 </div>
+<!-----------------------------------  BLOG ------------------------------------>
+<details>
+  <summary><b>Blogs</b></summary>
+<br><br>
+  
+| Title | Description |
+|-------|-------|
+| <div>⭐ <b><a href = "https://medium.com/@rajat01kapoor/setting-up-your-github-readme-4466e4b306d9">Getting Started with Github API</a></b></div> | Github REST API v3 using Python. Create repo, delete repo, create issue, comment on issue, etc.  |
 
-
+<br>
+</details>
+<details>
 
 
 <!-----------------------------------  Tech Stack Section ------------------------------------>
