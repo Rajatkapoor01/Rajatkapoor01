@@ -172,7 +172,7 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   
   Project Name | Tech Stack | Source Code
   ------- | :---------: | :--------: 
-  AnonOne | HTML, CSS, JS, PHP | [Repo](https://github.com/Rajatkapoor01/ANONONE) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/ANONONE)
+  AnonOne | HTML, CSS, JS, PHP | [Repo](https://github.com/Rajatkapoor01/ANONONE) | GitHub | [TRY LINK :](https://anon-one.netlify.app/)
 
   
   </details>
