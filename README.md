@@ -135,16 +135,17 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   <summary><b>Data Science</b></summary>
   <br/>
     
-  Project Name | Tech Stack | Source Code | Dataset
-  ------- | :---------: | :--------: | :--------:
-  Student Grade Prediction | Python | [Repo](https://github.com/Rajatkapoor01/Student-Grade-Prediction) | [Kaggle](https://www.kaggle.com/code/mohaiminul101/student-grade-prediction-and-eda)
-   IPL SCORE PREDICTION | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/Regression-problem-IPL-Score-Prediction-) | [Kaggle](https://www.kaggle.com/datasets/laxmena/ipl-dataset-2020-season-)
-   Plant Diseases Detection | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection) | [Kaggle](https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models)
-    Credit Card fraud Detection | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection) | [Kaggle](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection/blob/main/fraud_values.csv)
-    Fraud Transaction Detection | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction) | [Kaggle](https://www.kaggle.com/code/benroshan/transaction-fraud-detection)
-    Movie Recommendation System | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/Movie-Recommendation-system) | [Kaggle](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/Netflix%20Movie%20Recommendation%20Ec.csv)
-    Mileage Prediction | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/YBI-Foundation-Milage-Prediction) | [Kaggle](https://github.com/Rajatkapoor01/YBI-Foundation-Milage-Prediction/blob/main/milage.csv)
-     Bank Churan Prediction | Python/ML/DL | [Repo](https://github.com/Rajatkapoor01/YBI-FOUNDATION-Bank-Churn-Prediction-) | [Kaggle](https://github.com/Rajatkapoor01/YBI-FOUNDATION-Bank-Churn-Prediction-/blob/main/churn_dataset_Bank.csv)
+  | Project Name               |    Tech Stack    |                          Source Code                          |                            Dataset                            |
+|----------------------------|:----------------:|:-------------------------------------------------------------:|:-------------------------------------------------------------:|
+| Student Grade Prediction    |      Python      | [Repo](https://github.com/Rajatkapoor01/Student-Grade-Prediction) | [Kaggle](https://www.kaggle.com/code/mohaiminul101/student-grade-prediction-and-eda) |
+| IPL SCORE PREDICTION        | Python/ML/DL     | [Repo](https://github.com/Rajatkapoor01/Regression-problem-IPL-Score-Prediction-) | [Kaggle](https://www.kaggle.com/datasets/laxmena/ipl-dataset-2020-season-) |
+| Plant Diseases Detection    | Python/ML/DL     | [Repo](https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection) | [Kaggle](https://www.kaggle.com/code/tarunpaparaju/plant-pathology-2020-eda-models) |
+| Credit Card Fraud Detection | Python/ML/DL     | [Repo](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection) | [Kaggle](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection/blob/main/fraud_values.csv) |
+| Fraud Transaction Detection | Python/ML/DL     | [Repo](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction) | [Kaggle](https://www.kaggle.com/code/benroshan/transaction-fraud-detection) |
+| Movie Recommendation System | Python/ML/DL     | [Repo](https://github.com/Rajatkapoor01/Movie-Recommendation-system) | [Kaggle](https://github.com/Rajatkapoor01/Movie-Recommendation-system/blob/main/Netflix%20Movie%20Recommendation%20Ec.csv) |
+| Mileage Prediction          | Python/ML/DL     | [Repo](https://github.com/Rajatkapoor01/YBI-Foundation-Milage-Prediction) | [Kaggle](https://github.com/Rajatkapoor01/YBI-Foundation-Milage-Prediction/blob/main/milage.csv) |
+| Bank Churn Prediction       | Python/ML/DL     | [Repo](https://github.com/Rajatkapoor01/YBI-FOUNDATION-Bank-Churn-Prediction-) | [Kaggle](https://github.com/Rajatkapoor01/YBI-FOUNDATION-Bank-Churn-Prediction-/blob/main/churn_dataset_Bank.csv) |
+
     
 
   </details>
@@ -171,7 +172,9 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   
   Project Name | Tech Stack | Source Code
   ------- | :---------: | :--------: 
-  Glowy Pricing | HTML, CSS, JS | [Repo](https://github.com/Rajatkapoor01/Glowy_Pricing) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/Glowy_Pricing)
+  AnonOne | HTML, CSS, JS, PHP | [Repo](https://github.com/Rajatkapoor01/ANONONE) | GitHub | [NFT Forge](https://github.com/Rajatkapoor01/ANONONE)
+
+  
   </details>
    </details>
 
