@@ -21,12 +21,9 @@ Hi, I'm Rajat Kapoor</h1>
 
 ### Connect with me:
 
-**Gmail** | **Instagram** | **LinkedIn** | **Medium**  | **KAGGLE**
-:--:|:--:|:--:|:--:|:--:  
-[![Gmail](https://img.icons8.com/color/40/000000/gmail.png)](mailto:rajat01kapoor@gmail.com) | <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="40" width="40" /></a> | <a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="40" width="40" /></a> | <a href="https://medium.com/@rajat01kapoor" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="40" width="40" /></a> | | <a href="https://www.kaggle.com/rajatkapoor01" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="40" width="120" /></a> 
-
-
-
+**Gmail** | **Instagram** | **LinkedIn** | **Medium** | **Kaggle**
+:--:|:--:|:--:|:--:|:--:
+[![Gmail](https://img.icons8.com/color/40/000000/gmail.png)](mailto:rajat01kapoor@gmail.com) | <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> | <a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> | <a href="https://medium.com/@rajat01kapoor" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="40" width="40" /></a> | <a href="https://www.kaggle.com/rajatkapoor01" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="40" width="120" /></a>
 </div>
 
 <!-----------------------------------  BLOG ------------------------------------>
