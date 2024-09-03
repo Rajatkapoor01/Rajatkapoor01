@@ -171,15 +171,24 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   <br/>
   
   Project Name | Tech Stack | Source Code
-  ------- | :---------: | :--------: 
-  AnonOne | HTML, CSS, JS, PHP | [Repo](https://github.com/Rajatkapoor01/ANONONE) | GitHub | [TRY LINK :](https://anon-one.netlify.app/)
+  ------- | :---------: | :--------: | :--------:
+  AnonOne | HTML, CSS, JS, PHP | [GITHUB Repo](https://github.com/Rajatkapoor01/ANONONE) | DEMO | [TRY LINK :](https://anon-one.netlify.app/)
 
   
   </details>
    </details>
 
    </details>
-<!-----------------------------------  STATS  ------------------------------------>
+<!-----------------------------------  END PROJECTSSSS  ------------------------------------>
+
+
+
+
+
+
+
+
+
  <details>
   <summary><b> <-GITHUB STSTS-> </b></summary>
   <br/>
