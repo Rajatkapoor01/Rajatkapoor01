@@ -187,6 +187,9 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   | Great Learning | Free Certificate | [Link](https://www.mygreatlearning.com/academy?referrer_code=GLUL97RUOMYX8) | Unlimited |
   | ADDA 247 | APPITUDE and REASONING | [Link](https://applink.adda247.com/d/referProduct) | referral code: REF_FO205370 | 
   | GUVI GOVT CERTIFICATES | Free Certificate | [Link](https://www.guvi.in/referral/l/8gj3w) | Unlimited |
+  | TEXTBOOK COATCHING | Free TESTSERIES | [Link](https://testbook.com/invite/EETJVN) | INVITE CODE: EETJVN |
+  
+  
   <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 </details>
@@ -222,11 +225,9 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 
 <br> <br>
 
-## Interactive Game
+## Interactive SITE
 
-I've built an interactive game you can play directly in your browser! Click the link below to play:
-
-[Play TAKKEN3 the Game](https://www.retrogames.cc/psx-games/tekken-3.html)
+[#](#)
 
 
 
