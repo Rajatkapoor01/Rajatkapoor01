@@ -132,7 +132,9 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   <br/>
 <!--------  DATA SCIENCE ------------>
 <details>
-  <summary><b>Data Science</b></summary>
+  <summary><b>Data Science ## Data Science
+![Data Science Icon](https://img.icons8.com/clouds/100/000000/data-science.png)
+</b></summary>
   <br/>
     
   | Project Name               |    Tech Stack    |                          Source Code                          |                            Dataset                            |
