@@ -173,11 +173,20 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
    </details>
 
    </details>
+<!-----------------------------------  STATS  ------------------------------------>
+ <details>
+  <summary><b> <-GITHUB STSTS-> </b></summary>
+  <br/>
+<!-----------------------------------  FINAL Section ------------------------------------>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
+
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
+</details>
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
-
-<!-----------------REFFER----------->
  <details>
   <summary><b> --CERTIFICATES--</b></summary>
   <br/>
@@ -191,19 +200,6 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   
   
   <p align="center"><a href="#table-of-contents">(back to top)</a></p>
-
-</details>
-
- <details>
-  <summary><b> <-GITHUB STSTS-> </b></summary>
-  <br/>
-<!-----------------------------------  FINAL Section ------------------------------------>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
-
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
 </details>
 <!------------------------------------SNAKE GAME----------------------->
