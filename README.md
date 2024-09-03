@@ -132,9 +132,7 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   <br/>
 <!--------  DATA SCIENCE ------------>
 <details>
-  <summary><b>Data Science ## Data Science
-![Data Science Icon](https://img.icons8.com/clouds/100/000000/data-science.png)
-</b></summary>
+  <summary><b>Data Science📊</b></summary>
   <br/>
     
   | Project Name               |    Tech Stack    |                          Source Code                          |                            Dataset                            |
@@ -154,7 +152,8 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
  <!--------------------------------------------------------------------------------------------->
   <!--------  ANDROID DEVELOPMENT ------------>
   <details>
-  <summary><b> ANDROID Development</b></summary>
+  <summary><b> ANDROID Development🤖
+</b></summary>
   <br/>
   
   Project Name | Tech Stack | Source Code 
@@ -169,7 +168,8 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 
 <!--------  WEB DEVELOPMENT ------------>
   <details>
-  <summary><b>Web Development</b></summary>
+  <summary><b>Web Development 🌐
+</b></summary>
   <br/>
   
   Project Name | Tech Stack | Source Code | Try Link
