@@ -31,9 +31,11 @@ Hi, I'm Rajat Kapoor</h1>
   <summary><b>Blogs</b></summary>
 <br><br>
   
-| Title | Description |
+| BLOG | LINK |
 |-------|-------|
-| <div>⭐MEDIUM PROFILE <b><a href = "[https://medium.com/@rajat01kapoor/setting-up-your-github-readme-4466e4b306d9](https://medium.com/@rajat01kapoor)"></a></b></div> | MEDIUM  |
+|ON MEDIUM :| https://medium.com/@rajat01kapoor |
+|ON LINKEDIN :| |
+
 
 
 <br>
