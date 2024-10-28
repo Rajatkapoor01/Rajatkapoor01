@@ -19,18 +19,15 @@ Hi, I'm Rajat Kapoor</h1>
 
 - 📫 How to reach me (*eassiest way*)
 
-### Connect with me:<h3>CONNECTIONS : </h3>
-<h3> Connect with me<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
-
+### Connect with me:<h3>CONNECTIONS : <a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a></br>
 **Gmail** | **Instagram** | **LinkedIn** | **Medium** | **Kaggle** | **Facebook** | **Youtube** |
-:--:|:--:|:--:|:--:|:--:
+:--:|:--:|:--:|:--:|:--: | :--: | :--: |
 [![Gmail](https://img.icons8.com/color/40/000000/gmail.png)](mailto:rajat01kapoor@gmail.com) | <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> | <a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> | <a href="https://medium.com/@rajat01kapoor" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="40" width="40" /></a> | <a href="https://www.kaggle.com/rajatkapoor01" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="40" width="120" /></a> | <a href="https://fb.com/rajat kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajat kapoor" height="30" width="40" /></a> | <a href="https://www.youtube.com/c/https://www.youtube.com/@mr.r00t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr.r00t" height="30" width="40" /></a> |
 </div>
 
 <!-----------------------------------  BLOG ------------------------------------>
 <details>
-  <summary><b>MY B L O G</b></summary>
+  <summary><b>⏬MY B L O G</b></summary>
 <br><br>
   
 | BLOG | LINK |
@@ -42,7 +39,7 @@ Hi, I'm Rajat Kapoor</h1>
 </details>
 
 <details>
-<summary><b>TECH STACK</b></summary>
+<summary><b>⏬MY TECH STACK</b></summary>
 
 <!-----------------------------------  Tech Stack Section ------------------------------------>
 <h2> [<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>]</h2>
