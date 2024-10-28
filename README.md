@@ -33,7 +33,7 @@ Hi, I'm Rajat Kapoor</h1>
   
 | Title | Description |
 |-------|-------|
-| <div>⭐ <b><a href = "[https://medium.com/@rajat01kapoor/setting-up-your-github-readme-4466e4b306d9](https://medium.com/@rajat01kapoor)"></a></b></div> | MEDIUM PROFILE  |
+| <div>⭐MEDIUM PROFILE <b><a href = "[https://medium.com/@rajat01kapoor/setting-up-your-github-readme-4466e4b306d9](https://medium.com/@rajat01kapoor)"></a></b></div> | MEDIUM  |
 
 
 <br>
