@@ -25,6 +25,19 @@ Hi, I'm Rajat Kapoor</h1>
 [![Gmail](https://img.icons8.com/color/40/000000/gmail.png)](mailto:rajat01kapoor@gmail.com) | <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> | <a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> | <a href="https://medium.com/@rajat01kapoor" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="40" width="40" /></a> | <a href="https://www.kaggle.com/rajatkapoor01" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="40" width="120" /></a> | <a href="https://fb.com/rajat kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajat kapoor" height="30" width="40" /></a> | <a href="https://www.youtube.com/c/https://www.youtube.com/@mr.r00t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr.r00t" height="30" width="40" /></a> |
 </div>
 
+<!-------------------------STATS------------------------------------------------>
+ <details>
+  <summary><b> <-GITHUB STATS-> </b></summary>
+  <br/>
+<!-----------------------------------  STAT FINAL Section ------------------------------------>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
+
+ [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+
+</details>
 <!-----------------------------------  BLOG ------------------------------------>
 <details>
   <summary><b>⏬MY B L O G</b></summary>
@@ -32,8 +45,8 @@ Hi, I'm Rajat Kapoor</h1>
   
 | BLOG | LINK |
 |-------|-------|
-|ON MEDIUM :| https://medium.com/@rajat01kapoor |
-|ON LINKEDIN :| https://www.linkedin.com/in/rajat-kapoor-732042289/recent-activity/articles/ |
+|ON MEDIUM ➡️:| https://medium.com/@rajat01kapoor |
+|ON LINKEDIN ➡️:| https://www.linkedin.com/in/rajat-kapoor-732042289/recent-activity/articles/ |
 
 <br>
 </details>
@@ -95,7 +108,7 @@ Hi, I'm Rajat Kapoor</h1>
  <!--------------------------------------------------------------------------------------------->
   <!--------  INTERNSHIP ------------>
   <details>
-  <summary><b> MY INTERNSHIPS</b></summary>
+  <summary><b> ⏬MY INTERNSHIPS</b></summary>
   <br/>
   
   Project Name | Tech Stack | Source Code
@@ -114,11 +127,11 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
  <!--------------------------------------------------------------------------------------------->
 <details>
  <!-----------------####----PROJECTS----####-------------------->
-  <summary><b>MY PROJECTS</b></summary>
+  <summary><b>⏬MY PROJECTS</b></summary>
   <br/>
 <!--------  DATA SCIENCE ------------>
 <details>
-  <summary><b>Data Science📊</b></summary>
+  <summary><b>➡️Data Science📊</b></summary>
   <br/>
     
   | Project Name               |    Tech Stack    |                          Source Code                          |                            Dataset                            |
@@ -138,7 +151,7 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
  <!--------------------------------------------------------------------------------------------->
   <!--------  ANDROID DEVELOPMENT ------------>
   <details>
-  <summary><b> ANDROID Development🤖
+  <summary><b> ➡️ANDROID Development🤖
 </b></summary>
   <br/>
   
@@ -154,7 +167,7 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 
 <!--------  WEB DEVELOPMENT ------------>
   <details>
-  <summary><b>Web Development 🌐
+  <summary><b>➡️Web Development 🌐
 </b></summary>
   <br/>
   
@@ -172,23 +185,6 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 
 
 
-
-
-
-
-
- <details>
-  <summary><b> <-GITHUB STSTS-> </b></summary>
-  <br/>
-<!-----------------------------------  FINAL Section ------------------------------------>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
-
- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-
-</details>
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
  <details>
   <summary><b> --CERTIFICATES--</b></summary>
