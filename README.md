@@ -34,9 +34,7 @@ Hi, I'm Rajat Kapoor</h1>
 | BLOG | LINK |
 |-------|-------|
 |ON MEDIUM :| https://medium.com/@rajat01kapoor |
-|ON LINKEDIN :| |
-
-
+|ON LINKEDIN :| https://www.linkedin.com/in/rajat-kapoor-732042289/recent-activity/articles/ |
 
 <br>
 </details>
