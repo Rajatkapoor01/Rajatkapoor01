@@ -19,11 +19,13 @@ Hi, I'm Rajat Kapoor</h1>
 
 - 📫 How to reach me (*eassiest way*)
 
-### Connect with me:
+### Connect with me:<h3>CONNECTIONS : </h3>
+<h3> Connect with me<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h3> 
 
-**Gmail** | **Instagram** | **LinkedIn** | **Medium** | **Kaggle**
+**Gmail** | **Instagram** | **LinkedIn** | **Medium** | **Kaggle** | **Facebook** | **Youtube** |
 :--:|:--:|:--:|:--:|:--:
-[![Gmail](https://img.icons8.com/color/40/000000/gmail.png)](mailto:rajat01kapoor@gmail.com) | <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> | <a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> | <a href="https://medium.com/@rajat01kapoor" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="40" width="40" /></a> | <a href="https://www.kaggle.com/rajatkapoor01" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="40" width="120" /></a>
+[![Gmail](https://img.icons8.com/color/40/000000/gmail.png)](mailto:rajat01kapoor@gmail.com) | <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> | <a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> | <a href="https://medium.com/@rajat01kapoor" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="40" width="40" /></a> | <a href="https://www.kaggle.com/rajatkapoor01" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="40" width="120" /></a> | <a href="https://fb.com/rajat kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajat kapoor" height="30" width="40" /></a> | <a href="https://www.youtube.com/c/https://www.youtube.com/@mr.r00t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr.r00t" height="30" width="40" /></a> |
 </div>
 
 <!-----------------------------------  BLOG ------------------------------------>
@@ -89,21 +91,7 @@ Hi, I'm Rajat Kapoor</h1>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
 </p>
-
-<!-----------------------------------  CONNECTION  Section ------------------------------------>
-<h3>CONNECTIONS : </h3>
-<h3> Connect with me<a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
-<p align="left">
-<a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajat kapoor :linkedin.com/in/rajat-kapoor-732042289" height="30" width="40" /></a>
-<a href="https://kaggle.com/rajatkapoor01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajatkapoor01" height="30" width="40" /></a>
-<a href="https://fb.com/rajat kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajat kapoor" height="30" width="40" /></a>
-<a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajat._.kapoor" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@mr.r00t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@mr.r00t" height="30" width="40" /></a>
-</p>
- <!------------------------------------------------------------------------------------>
-
-
+<!-------------------------------------------------------------------------------------->
 
 - 🔭 I’m currently working on
 <!-----------------------------------  TASK Section ------------------------------------>
