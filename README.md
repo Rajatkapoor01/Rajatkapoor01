@@ -28,7 +28,7 @@ Hi, I'm Rajat Kapoor</h1>
 
 <!-----------------------------------  BLOG ------------------------------------>
 <details>
-  <summary><b>Blogs</b></summary>
+  <summary><b>MY B L O G</b></summary>
 <br><br>
   
 | BLOG | LINK |
