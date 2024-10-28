@@ -27,7 +27,7 @@ Hi, I'm Rajat Kapoor</h1>
 
 <!-------------------------STATS------------------------------------------------>
  <details>
-  <summary><b> <-GITHUB STATS-> </b></summary>
+  <summary><b> <--GITHUB STATS--> </b></summary>
   <br/>
 <!-----------------------------------  STAT FINAL Section ------------------------------------>
 
@@ -187,7 +187,7 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
  <details>
-  <summary><b> --CERTIFICATES--</b></summary>
+  <summary><b> <--CERTIFICATES--> </b></summary>
   <br/>
   
   | Provider | Description | Link | Expiration |
