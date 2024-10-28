@@ -33,7 +33,8 @@ Hi, I'm Rajat Kapoor</h1>
   
 | Title | Description |
 |-------|-------|
-| <div>⭐ <b><a href = "https://medium.com/@rajat01kapoor/setting-up-your-github-readme-4466e4b306d9">Getting Started with Github API</a></b></div> | Github REST API v3 using Python. Create repo, delete repo, create issue, comment on issue, etc.  |
+| <div>⭐ <b><a href = "[https://medium.com/@rajat01kapoor/setting-up-your-github-readme-4466e4b306d9](https://medium.com/@rajat01kapoor)"></a></b></div> | MEDIUM PROFILE  |
+
 
 <br>
 </details>
