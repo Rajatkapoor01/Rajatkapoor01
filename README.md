@@ -1,6 +1,6 @@
 <!----------------------------------- Banner ------------------------------------->
 
-[![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/github%20Photo.png)](#)
+[![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/LinkedIN.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
 <h4 align="center">Visitor's count :eyes:</h4>
