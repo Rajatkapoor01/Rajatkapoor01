@@ -166,17 +166,7 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 </details>
-<!-----------------------------------  BLOG ------------------------------------>
-<details>
-  <summary><b>M Y - B L O G ⏬</b></summary>
-<br><br>
-  
-| BLOG | LINK |
-|-------|-------|
-|ON MEDIUM ➡️:| https://medium.com/@rajat01kapoor |
-|ON LINKEDIN ➡️:| https://www.linkedin.com/in/rajat-kapoor-732042289/recent-activity/articles/ |
-<br>
-</details>
+
 
 <!-------------------------STATS------------------------------------------------>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
@@ -198,8 +188,19 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   />
 </picture> 
 <!--------------------------------ENDING HERE----------------------------------->
-## 
+<!-----------------------------------  BLOG ------------------------------------>
+<details>
+  <summary><b>M Y - B L O G ⏬</b></summary>
+<br><br>
+  
+| BLOG | LINK |
+|-------|-------|
+|ON MEDIUM ➡️:| https://medium.com/@rajat01kapoor |
+|ON LINKEDIN ➡️:| https://www.linkedin.com/in/rajat-kapoor-732042289/recent-activity/articles/ |
+<br>
+</details>
 
+## 
 [![⏬**MY PORTFOLIO SITE**⏬](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rajatkapoor01.github.io/Portfolio/)
 
 
