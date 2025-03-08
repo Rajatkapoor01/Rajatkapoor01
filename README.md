@@ -52,20 +52,13 @@ Hi, I'm Rajat Kapoor</h1>
 ### Languages
 
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-
-
 <h4>ML/DL stack</h4>   
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white&style=plastic)  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white&style=plastic)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white&style=plastic)  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white&style=plastic)  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white&style=plastic) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white&style=plastic)
 
 <h4>Version Control</h4>  
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&style=plastic)  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=plastic)
-
-
-<h4>Hosting</h4>    
-
+<h4>Hosting</h4>  
  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&style=plastic) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=blue&style=plastic) 
   <br>
   
@@ -74,15 +67,16 @@ Hi, I'm Rajat Kapoor</h1>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase" />
 </p>
-
 <h3>Other</h3>
 <p>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
 </p>
+
+
 <!-------------------------------------------------------------------------------------->
-🔭 I’m currently working on
+🔭 I’m currently working on:
  <!-----------------####----PROJECTS----####-------------------->
-  <summary><b>⏬PROJECTS</b></summary>
+  <summary><b>PROJECTS⏬</b></summary>
   <br/>
 <!--------  DATA SCIENCE ------------>
 <details>
@@ -133,14 +127,13 @@ Hi, I'm Rajat Kapoor</h1>
   
   </details>
    </details>
-
    </details>
 <!-----------------------------------  END PROJECTSSSS  ------------------------------------>
-
- <!--------------------------------------------------------------------------------------------->
-  <!--------  INTERNSHIP ------------>
+<!--------------------------------------------------------------------------------------------->
+<details>
+<!--------  INTERNSHIP ------------>
   <details>
-  <summary><b> ⏬INTERNSHIPS</b></summary>
+  <summary><b> INTERNSHIPS⏬ </b></summary>
   <br/>
   
   Project Name | Tech Stack | Source Code
@@ -152,10 +145,8 @@ Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
 CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction)
 CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection)
 CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection)
-
-
-  </details>
-  </details>
+</details>
+</details>
  <!--------------------------------------------------------------------------------------------->
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
  <details>
@@ -208,9 +199,9 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   />
 </picture> 
 <!--------------------------------ENDING HERE----------------------------------->
-## ⏬**MY PORTFOLIO SITE**⏬
+## 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rajatkapoor01.github.io/Portfolio/)
+[![⏬**MY PORTFOLIO SITE**⏬](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rajatkapoor01.github.io/Portfolio/)
 
 
 
