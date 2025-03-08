@@ -166,9 +166,6 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 </details>
-
-
-<br> <br>
 <!-----------------------------------  BLOG ------------------------------------>
 <details>
   <summary><b>M Y - B L O G ⏬</b></summary>
