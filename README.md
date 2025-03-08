@@ -27,6 +27,20 @@ Hi, I'm Rajat Kapoor</h1>
  | [![Gmail](https://img.icons8.com/color/40/000000/gmail.png)](mailto:rajat01kapoor@gmail.com) | <a href="https://instagram.com/rajat._.kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> | <a href="https://linkedin.com/in/rajat-kapoor-732042289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a> | <a href="https://medium.com/@rajat01kapoor" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" alt="Medium" height="40" width="40" /></a> | <a href="https://www.kaggle.com/rajatkapoor01" target="_blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" height="40" width="120" /></a> | <a href="https://fb.com/rajat kapoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajat kapoor" height="30" width="40" /></a> | <a href="https://https://www.youtube.com/channel/UCHme902WBi-w_m1AqDUNamQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a> |
 </div>
 
+<!---------------->
+**PORTFOLIO** | **Gmail** | **Instagram** | **LinkedIn** | **Medium** | **Kaggle** | **Facebook** | **YouTube**  
+:--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rajatkapoor01.github.io/Portfolio/)  
+| [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajat01kapoor@gmail.com)  
+| [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rajat._.kapoor)  
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-kapoor-732042289)  
+| [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rajat01kapoor)  
+| [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rajatkapoor01)  
+| [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/rajat.kapoor)  
+| [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHme902WBi-w_m1AqDUNamQ) |
+
+
 <!-------------------------STATS------------------------------------------------>
  <details>
   <summary><b> <--GITHUB STATS--> </b></summary>
