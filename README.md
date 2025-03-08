@@ -16,14 +16,15 @@ Hi, I'm Rajat Kapoor</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatkapoor01&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22rajatkapoor01" /> </p>
 
 - 💬 Ask me about
-- **Python,c/C++, DSA, DBMS**
-- **Basics of Networking, Operating System**
-- **Machine Learning, Deep Learning(Neural network & Natural Language Processing), Flask/Django, Docker, AWS**
-- **Android AAP Development(Android studio, Flutter, FlutterFlow, Firebase)**
+- **Lang: Python,C/C++**
+- **Machine Learning, Deep Learning(Neural Network & Natural Language Processing), Flask/Django, Docker, AWS**
+- **Advance Excel, Data Gathering, Data Cleaning, EDA**
+- **Visualization Tools: Tableau, Power BI, Matplotlib, Seaborn**
+- **Android AAP Development(Basics): Android studio, Flutter, FlutterFlow, Firebase**
 - **IOT**
-- **OS- Linux, Kali Linux, Parrot**
-- **Advance Excel, Figma**
-- **Adobe Lightroom, Photoshop, Photopie, Canva, Capcut**
+- **Basics of Networking, Operating System, DBMS & DSA**
+- **OS- Linux, Kali Linux, Parrot OS**
+- **Other Tools: Figma, Canva, Adobe Lightroom, Photoshop, Photopie, Capcut**
 
 
 - 📫 How to reach me:
