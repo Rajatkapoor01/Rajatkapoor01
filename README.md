@@ -81,9 +81,8 @@ Hi, I'm Rajat Kapoor</h1>
 </p>
 <!-------------------------------------------------------------------------------------->
 🔭 I’m currently working on
-<!-----------------------------------  TASK Section ------------------------------------>
  <!-----------------####----PROJECTS----####-------------------->
-  <summary><b>⏬MY PROJECTS</b></summary>
+  <summary><b>⏬PROJECTS</b></summary>
   <br/>
 <!--------  DATA SCIENCE ------------>
 <details>
@@ -141,7 +140,7 @@ Hi, I'm Rajat Kapoor</h1>
  <!--------------------------------------------------------------------------------------------->
   <!--------  INTERNSHIP ------------>
   <details>
-  <summary><b> ⏬MY INTERNSHIPS</b></summary>
+  <summary><b> ⏬INTERNSHIPS</b></summary>
   <br/>
   
   Project Name | Tech Stack | Source Code
@@ -158,10 +157,9 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   </details>
   </details>
  <!--------------------------------------------------------------------------------------------->
-<details>
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
  <details>
-  <summary><b> <--CERTIFICATES--> </b></summary>
+  <summary><b> <--FOR CERTIFICATES Check Section⏬--> </b></summary>
   <br/>
   
   | Provider | Description | Link | Expiration |
@@ -175,6 +173,25 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   <p align="center"><a href="#table-of-contents">(back to top)</a></p>
 
 </details>
+
+
+<br> <br>
+<!-----------------------------------  BLOG ------------------------------------>
+<details>
+  <summary><b>⏬Check M Y - B L O G</b></summary>
+<br><br>
+  
+| BLOG | LINK |
+|-------|-------|
+|ON MEDIUM ➡️:| https://medium.com/@rajat01kapoor |
+|ON LINKEDIN ➡️:| https://www.linkedin.com/in/rajat-kapoor-732042289/recent-activity/articles/ |
+<br>
+</details>
+
+<!-------------------------STATS------------------------------------------------>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
 <!------------------------------------SNAKE GAME----------------------->
  <picture>
   <source
@@ -191,26 +208,6 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
   />
 </picture> 
 <!--------------------------------ENDING HERE----------------------------------->
-
-<br> <br>
-<!-----------------------------------  BLOG ------------------------------------>
-<details>
-  <summary><b>⏬MY B L O G</b></summary>
-<br><br>
-  
-| BLOG | LINK |
-|-------|-------|
-|ON MEDIUM ➡️:| https://medium.com/@rajat01kapoor |
-|ON LINKEDIN ➡️:| https://www.linkedin.com/in/rajat-kapoor-732042289/recent-activity/articles/ |
-<br>
-</details>
-
-<!-------------------------STATS------------------------------------------------>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatkapoor01&show_icons=true&locale=en" alt="rajatkapoor01" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkapoor01&" alt="rajatkapoor01" /></p>
-
-
 ## ⏬**MY PORTFOLIO SITE**⏬
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Click%20Here-blue?style=for-the-badge)](https://rajatkapoor01.github.io/Portfolio/)
