@@ -47,13 +47,11 @@ Hi, I'm Rajat Kapoor</h1>
   <br>
 <h4>Web development stack</h4> 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic)  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&style=plastic) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&style=plastic) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&style=plastic) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white&style=plastic) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&style=plastic)  !
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 
 
@@ -82,30 +80,8 @@ Hi, I'm Rajat Kapoor</h1>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="canva" />
 </p>
 <!-------------------------------------------------------------------------------------->
-
-- 🔭 I’m currently working on
+🔭 I’m currently working on
 <!-----------------------------------  TASK Section ------------------------------------>
- <!--------------------------------------------------------------------------------------------->
-  <!--------  INTERNSHIP ------------>
-  <details>
-  <summary><b> ⏬MY INTERNSHIPS</b></summary>
-  <br/>
-  
-  Project Name | Tech Stack | Source Code
-  ------- | :---------: | :--------: 
-Cognifyz| HTML, CSS, JS | [Repo]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS)
-OCTANET| PYTHON DEVELOPER | [Repo]( https://github.com/Rajatkapoor01/OCTANET) | GitHub | [NFT Forge](  https://github.com/Rajatkapoor01/OCTANET)
-Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
-Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
-CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction)
-CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection)
-CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection)
-
-
-  </details>
-  </details>
- <!--------------------------------------------------------------------------------------------->
-<details>
  <!-----------------####----PROJECTS----####-------------------->
   <summary><b>⏬MY PROJECTS</b></summary>
   <br/>
@@ -162,9 +138,27 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
    </details>
 <!-----------------------------------  END PROJECTSSSS  ------------------------------------>
 
+ <!--------------------------------------------------------------------------------------------->
+  <!--------  INTERNSHIP ------------>
+  <details>
+  <summary><b> ⏬MY INTERNSHIPS</b></summary>
+  <br/>
+  
+  Project Name | Tech Stack | Source Code
+  ------- | :---------: | :--------: 
+Cognifyz| HTML, CSS, JS | [Repo]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/cognifyz_internship-TASKS)
+OCTANET| PYTHON DEVELOPER | [Repo]( https://github.com/Rajatkapoor01/OCTANET) | GitHub | [NFT Forge](  https://github.com/Rajatkapoor01/OCTANET)
+Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-ToDo-App)
+Codsoft| ANDROID | [Repo]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CODESOFT-QuoteOfDay)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Fraud-Transaction-Prediction)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Credit-Card-Fraud-Detection)
+CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection) | GitHub | [NFT Forge]( https://github.com/Rajatkapoor01/CodeClause__Plant-diseases-detection)
 
 
-
+  </details>
+  </details>
+ <!--------------------------------------------------------------------------------------------->
+<details>
 <!-----------------------------------  Free CERTIFICATES ------------------------------------>
  <details>
   <summary><b> <--CERTIFICATES--> </b></summary>
