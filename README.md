@@ -190,7 +190,7 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 <!--------------------------------ENDING HERE----------------------------------->
 <!-----------------------------------  BLOG ------------------------------------>
 <details>
-  <summary><b>M Y - B L O G ⏬</b></summary>
+  <summary><b>CHECK M Y - B L O G ⏬</b></summary>
 <br><br>
   
 | BLOG | LINK |
