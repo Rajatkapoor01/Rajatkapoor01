@@ -27,7 +27,6 @@ Hi, I'm Rajat Kapoor</h1>
 - **Other Tools: Figma, Canva, Adobe Lightroom, Photoshop, Photopie, Capcut**
 
 
-- 📫 How to reach me:
 
 ### Connect with me:<h3>CONNECTIONS : <a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a></br>
 <!---------------->
