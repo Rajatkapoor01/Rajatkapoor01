@@ -130,6 +130,8 @@ Hi, I'm Rajat Kapoor</h1>
    </details>
    </details>
 <!-----------------------------------  END PROJECTSSSS  ------------------------------------>
+
+🔭 Check My Working :
 <!--------------------------------------------------------------------------------------------->
 <!--------  INTERNSHIP ------------>
   <details>
@@ -148,9 +150,9 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 </details>
 </details>
  <!--------------------------------------------------------------------------------------------->
-<!----------------------------------- Get Free CERTIFICATES From Here ------------------------------------>
+<!----------------------------------- Check For The CERTIFICATES------------------------------------>
  <details>
-  <summary><b> <--Get Free CERTIFICATES From Here⏬--> </b></summary>
+  <summary><b> <--Check For The CERTIFICATES⏬--> </b></summary>
   <br/>
   
   | Provider | Description | Link | Expiration |
@@ -169,7 +171,7 @@ CodeClause| Data Science | [Repo](https://github.com/Rajatkapoor01/CodeClause__P
 <br> <br>
 <!-----------------------------------  BLOG ------------------------------------>
 <details>
-  <summary><b>Check M Y - B L O G From Here⏬</b></summary>
+  <summary><b>M Y - B L O G ⏬</b></summary>
 <br><br>
   
 | BLOG | LINK |
