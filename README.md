@@ -1,11 +1,13 @@
 <!----------------------------------- Banner ------------------------------------->
 
-[![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/LinkedIN.png)](#)
+[![MasterHead](https://github.com/Rajatkapoor01/Rajatkapoor01/blob/main/picture.png)](#)
 
 <!----------------------------------- About Section ------------------------------------>
-<h4 align="center">Visitor's count :eyes:</h4>
-<!-- VISITOR COUNTER ON MY PROFILE-->
-<p align="center"><img src="https://profile-counter.glitch.me/{MyNewCounter}/count.svg" alt="MyNewCounter :: Visitor's Count" /></p>
+<h4 align="center">Visitor's Count 👀</h4>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/MyNewCounter/count.svg" alt="Visitor Count" />
+</p>
 
 <div>
 <h1 align="center"><a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
